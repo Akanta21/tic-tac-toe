@@ -102,9 +102,9 @@ body{
     margin:8px 8px 8px 0;
     border-radius:5px;
     background:black;
-    font-size:40px;
+    font-size:30px;
     color:gold;
-    text-align:justify;
+    text-align:center;
   }
   #wrapper{
     width:100%;
